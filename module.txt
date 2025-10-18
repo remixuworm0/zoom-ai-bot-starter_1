@@ -1,0 +1,2 @@
+# Ideas
+Configure sticky sessions for a specific legacy service
